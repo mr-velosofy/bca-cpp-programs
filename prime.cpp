@@ -20,5 +20,5 @@ int main(){
     else{
         cout<<"Its Not a Prime Number\n";
     }
-    
+    change
 }
