@@ -8,7 +8,7 @@ int main() {
     cin >> n;
 
     cout << "Fibonacci Series: ";
-    int i=1;
+    long int i=1;
 
     while (i <= n) {
         // Prints the first two terms.
