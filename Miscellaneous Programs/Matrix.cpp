@@ -15,7 +15,7 @@ int main(){
 
     int a[r][c],trans[r][c];
 
-    for (i = 1; i<=r ; i++)
+    for (i = 1; i<= r ; i++)
     {
         for (j = 1; j<= c ; j++)
         {
@@ -28,7 +28,7 @@ int main(){
     //printing the matrix
     cout<<"\n---MATRIX A---\n";
 
-    for (i = 1; i<=r ; i++)
+    for (i = 1; i<= r ; i++)
     {
         for (j = 1; j<= c ; j++)
         {
