@@ -1,5 +1,4 @@
 #include<iostream>
-#define clrscr(); system("cls");
 using namespace std;
 
 int main(){
