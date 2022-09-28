@@ -21,7 +21,7 @@ int main(){
         
     } 
     //printing the matrix
-    cout<<"\n---MATRIX A---\n";
+    cout<<"\nMATRIX A\n";
 
     for (r = 1; r<=n ; r++)
     {
