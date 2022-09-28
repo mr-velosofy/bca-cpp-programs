@@ -1,5 +1,4 @@
 #include<iostream>
-#define clrscr(); system("cls");
 using namespace std;
 
 int main(){
@@ -21,7 +20,6 @@ int main(){
         }
         
     } 
-    clrscr();   
     //printing the matrix
     cout<<"\n---MATRIX A---\n";
 
